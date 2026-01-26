@@ -1,5 +1,5 @@
-groq
-protobuf
+groq==0.9.0
+protobuf==4.25.3
 # Google Gemini API (stable client compatible with Gradio/Streamlit)
 google-generativeai==0.7.2
 
